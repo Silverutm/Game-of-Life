@@ -1,0 +1,18 @@
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\bin\Debug\GameofLife.exe.config
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\bin\Debug\GameofLife.exe
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\bin\Debug\GameofLife.pdb
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\bin\Debug\GameofLife.xml
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.vbprojResolveAssemblyReference.cache
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.Resources.resources
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.vbproj.GenerateResource.Cache
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.exe
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.xml
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.pdb
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.GameLife1.resources
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.Game2.resources
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.Menu.resources
+c:\users\sealtiel\documents\visual studio 2015\Projects\GameofLife\GameofLife\obj\Debug\GameofLife.ConfGame2.resources
+C:\Users\Sealtiel\Desktop\Materias\Sistemas Int\SI Moroni Silverio\GameofLife\GameofLife\bin\Debug\GameofLife.exe.config
+C:\Users\Sealtiel\Desktop\Materias\Sistemas Int\SI Moroni Silverio\GameofLife\GameofLife\obj\Debug\GameofLife.exe
+C:\Users\Sealtiel\Desktop\Materias\Sistemas Int\SI Moroni Silverio\GameofLife\GameofLife\obj\Debug\GameofLife.xml
+C:\Users\Sealtiel\Desktop\Materias\Sistemas Int\SI Moroni Silverio\GameofLife\GameofLife\obj\Debug\GameofLife.pdb
